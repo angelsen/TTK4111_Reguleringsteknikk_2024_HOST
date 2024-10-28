@@ -1,0 +1,13 @@
+[project]
+name = "ttk4111-reguleringsteknikk-2024-host"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "control>=0.10.1",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.9.2",
+    "nbconvert>=7.16.4",
+    "sympy>=1.13.3",
+]
